@@ -1,5 +1,6 @@
 {
 	"name":"spelling",
 	"targetType": "library",
+	"license": "MIT"
 }
 
