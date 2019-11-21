@@ -1,6 +1,7 @@
 {
 	"name":"spelling",
 	"targetType": "library",
-	"license": "MIT"
+	"license": "MIT", 
+	"description": "Simple Spell Checking library based off some articles on the web" 
 }
 
